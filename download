@@ -1,0 +1,5 @@
+node_modules/
+data/
+.env
+# Large local-only files (GitHub web upload limit)
+wIUCcr9vNDIMYYSl6FEF+CY1HZF72_fY.mp4
